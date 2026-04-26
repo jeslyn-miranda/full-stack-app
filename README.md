@@ -37,7 +37,7 @@ React (Vite) ──HTTP/JSON + JWT──▶ Spring Boot REST API ──JPA──
         └ Context: Auth / Theme / Toast     └ @RestControllerAdvice global errors
 ```
 
-The backend uses a classic Controller → Service → Repository layering with DTO records for request / response shapes. All endpoints under `/api/**` (except `/api/auth/**`) require a valid `Authorization: Bearer <token>` header.
+The backend uses a classic Controller → Service → Repository layering with DTO records for request / response shapes. 
 
 ---
 
