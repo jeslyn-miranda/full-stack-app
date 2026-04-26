@@ -65,5 +65,10 @@ full-stack-app/
 ```
 
 ## Screenshots
+<img width="1301" height="691" alt="image" src="https://github.com/user-attachments/assets/89942203-b409-4a2d-b8f8-4498228f93df" />
+<img width="1316" height="695" alt="image" src="https://github.com/user-attachments/assets/56c34a83-1521-459a-a03c-7fcd3eafc637" />
+<img width="1340" height="705" alt="image" src="https://github.com/user-attachments/assets/2fa4a165-7691-4fa4-9db5-a56dd7fbc32c" />
+
+
 
 
