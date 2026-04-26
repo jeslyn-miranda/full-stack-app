@@ -2,7 +2,7 @@
 
 A full-stack productivity workspace for students: a Kanban task board, a rich-text notebook system with auto-save, and a dashboard of study analytics. Built with **Spring Boot + PostgreSQL** on the back, **React + Vite** on the front, and JWT authentication end-to-end.
 
-> **Live demo:** _[add URL once deployed — see "Deploy" section below]_
+> **Live demo:** [study-planner-beta-one.vercel.app](https://study-planner-beta-one.vercel.app)
 
 ---
 
